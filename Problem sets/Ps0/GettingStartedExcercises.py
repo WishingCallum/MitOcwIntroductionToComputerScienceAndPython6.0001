@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 10 16:38:02 2023
-
-@author: CallumD
-"""
-
 # exercise 1
 print (6+4*10)
 

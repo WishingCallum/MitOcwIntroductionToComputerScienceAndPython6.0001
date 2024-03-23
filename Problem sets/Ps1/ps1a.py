@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 23 09:34:43 2023
 
-@author: CallumD
-"""
 #Finding the cost of a downpayment on a house
 
 annual_salary = float(input("Enter your annual salary: "))

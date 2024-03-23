@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 24 12:43:36 2023
-
-@author: CallumD
-"""
-
 # Fib(5) calls fib4 and fib3
 # Fib 4 -------
 # Fib 4 calls fib 3 and fib 2

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 12 13:41:29 2023
-
-@author: CallumD
-"""
-
 # Write a program that asks the user to enter an integer and prints
 # two integers, root and pwr, such that 0 < pwr < 6 and root**pwr is equal
 # to the integer entered by the user. If no such pair of integers exists,

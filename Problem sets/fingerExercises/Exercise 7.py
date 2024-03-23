@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 16 17:26:35 2023
-
-@author: CallumD
-"""
-
 # Finger exercise: What would the code in Figure 3.4 do if the statement x = 25
 # were replaced by x = -25?
 

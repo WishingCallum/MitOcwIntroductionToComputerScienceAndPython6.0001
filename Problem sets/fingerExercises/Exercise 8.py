@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 17 11:54:09 2023
 
-@author: CallumD
-"""
 #change high to just be x, max always finds the highest value so it always goes to 1 for positive
 #abs is necesarry for the negative comparisons to work
 #ans**3 as cube root

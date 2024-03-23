@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 13 10:51:53 2023
-
-@author: CallumD
-"""
 # Write a program that does the following in order:
 # 1. Asks the user to enter a number “x”
 # 2. Asks the user to enter a number “y”

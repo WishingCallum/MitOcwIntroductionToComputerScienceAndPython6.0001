@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 11 13:38:48 2023
-
-@author: CallumD
-"""
-
 # Write a program that asks the user to input 10 integers, and then
 # prints the largest odd number that was entered. If no odd number was entered, it
 # should print a message to that effect.

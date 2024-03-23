@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 23 10:29:02 2023
-
-@author: CallumD
-"""
-
 annual_salary = float(input("Enter your annual salary: "))
 portion_saved = float(input("Enter the percent of your salary to save, as a decimal: "))
 total_cost = float(input("Enter the cost of your dream home:"))

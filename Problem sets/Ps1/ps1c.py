@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 23 10:43:58 2023
-
-@author: CallumD
-
 You are now going to try to find the best rate of savings to achieve a down payment on a $1M house in 
 36 months. Since hitting this exactly is a challenge, we simply want your savings to be within $100 of 
 the required down payment. 
@@ -65,7 +61,7 @@ while total_cost*portion_down_payment - current_savings > 100 or total_cost*port
         
         int_max_guess = int(portion_saved)
         
-    portion_saved = int((int_max_guess + int_min_guess)/2.0) # i think this causes rounding errors
+    portion_saved = int((int_max_guess + int_min_guess)/2.0) 
     if int_min_guess > 9998:
         
         break
